@@ -1,3 +1,5 @@
+## finger 3.1 P46 from cover
+
 root=0
 pwr=1 ## if we put it as zero as the exercise states, it would be impossible to ("NO such pair of integers could be found") to be ever ever printed !
 x = int(input("Enter a Number: "))
@@ -14,4 +16,3 @@ if root**pwr == x:
 else:
     print("No such pair of integers could be found")
 
-## finger 3.1 P46 from cover

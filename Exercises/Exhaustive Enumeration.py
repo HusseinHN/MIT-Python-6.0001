@@ -1,3 +1,6 @@
+## Expanded Example not an exercise. In 3.1 P44 from cover
+
+
 #Find the cube root of a perfect cube 
 x = int(input('Enter an integer: ')) 
 ans = 0 

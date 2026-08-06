@@ -1,3 +1,5 @@
+## finger 2.4 P43 from cover
+
 LargestOdd = None  
 counter = 10
 
@@ -12,4 +14,3 @@ if LargestOdd == None:
 else:
     print(LargestOdd, "is the largest odd number")
 
-    

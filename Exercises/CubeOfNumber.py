@@ -1,3 +1,5 @@
+## Expanded Example not an exercise. In 2.4 P41 from cover
+
 # numXs = int(input('How many times should I print the letter X? ')) 
 # print(numXs*"X")
 NegativeFlag = False
@@ -23,3 +25,5 @@ if not NegativeFlag:
     print(str(x) + '*' + str(x) + '*' + str(x) + ' = ' + str(ans))
 else:
     print(str(-x) + '*' + str(-x) + '*' + str(-x) + ' = ' + str(-ans))
+
+## finger 2.4 P43 from cover

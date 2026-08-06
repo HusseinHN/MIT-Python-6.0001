@@ -1,3 +1,5 @@
+## Gemini Exercise
+
 print("This Program will Check The Median Number")
 x = int(input("Enter the number x : "))
 y = int(input("Enter the number y : "))
@@ -12,4 +14,3 @@ elif y<z<x or x<z<y:
 else:
     print("Invaild Inputs, No Median Number Could Be Found, Please Try Again !")
     
-## Gemini Exercise
