@@ -13,4 +13,4 @@ the book used in the course is
 > **ISBN:** `9780262529644`
 
 which could be found and downloaded at the repository files yet I have uploaded another Personal Modified Edition of the book which have electronic personal notes (added with pdf xchange editor). 
-It should be mentioned that the Personal Modified Edition would have little edits on the text itself which may not be notable.
+* It should be mentioned that the Personal Modified Edition would have little edits on the text itself which may not be notable.
