@@ -44,12 +44,3 @@
 # print(bool("")) ## False
 
 #print(-3>False)
-
-import time
-maxVal = int(input('Enter a positive integer: '))
-start = time.time()
-i = 0
-while i < maxVal:
-    i = i + 1
-print(i)
-print('Time taken:', time.time() - start, 'seconds')
