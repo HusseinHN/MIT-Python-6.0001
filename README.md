@@ -11,4 +11,6 @@ as stated in [Reading Section](https://ocw.mit.edu/courses/6-0001-introduction-t
 the book used in the course is  
 > Guttag, John. *Introduction to Computation and Programming Using Python: With Application to Understanding Data (Second Edition)*. MIT Press, 2016.  
 > **ISBN:** `9780262529644`
-which could be found and downloaded at: 
+
+which could be found and downloaded at the repository files yet I have uploaded another Personal Modified Edition of the book which have electronic personal notes (added with pdf xchange editor). 
+It should be mentioned that the Personal Modified Edition would have little edits on the text itself which may not be notable.
