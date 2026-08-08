@@ -44,3 +44,25 @@
 # print(bool("")) ## False
 
 #print(-3>False)
+
+# x = 4
+# for i in range(0, x):
+#     print(i)
+#     x = 5
+# print(x)
+
+# x = 4
+# for j in range(x):
+#     for i in range(x):
+#         print(i)
+#         x = 2
+
+# total = "0" 
+# for c in '12345678': 
+#     total = total + (c) 
+#     print(total) 
+
+# total = 0 
+# for c in '12345678': 
+#     total = total + int(c) 
+# print(total)
