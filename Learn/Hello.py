@@ -66,3 +66,13 @@
 # for c in '12345678': 
 #     total = total + int(c) 
 # print(total)
+
+# variable = 0.0
+# while variable != 0.3:
+#     variable += 0.1
+#print(0.1+0.1+0.1)
+
+# my_list = [5, 2, 7, -4, 0]
+# for i in range(len(my_list)):
+#     my_list[i] += 1
+#     print(i)
